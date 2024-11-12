@@ -12,7 +12,7 @@
 
 המשחק שלנו מיועד למחשב.
 
-![](https://github.com/Make-a-game-R-and-E/Journey-to-Freedom/blob/main/DALL%C2%B7E%202024-11-11%2015.39.36%20-%20A%20tense%20scene%20from%20a%20historical%20survival%20game%20set%20in%20the%20WWII%20era.%20The%20main%20character%20is%20a%20young%20person%20wearing%20old-fashioned%20clothing%20and%20looking%20wea.png?raw=true)
+![](https://github.com/Make-a-game-R-and-E/Journey-to-Freedom/blob/main/pictures/start%20screen.png?raw=true)
 
 
 ---
@@ -117,7 +117,7 @@
 קישור: https://store.steampowered.com/app/722570/NaziShoot/ 
 
 
-![](pic7.png)
+![](https://github.com/Make-a-game-R-and-E/Journey-to-Freedom/blob/main/pictures/pic7.png?raw=true)
 
 במשחק שלנו יש אפשרות להתחבר לחלק המשפחתי שהיה בשואה, להבין איזה דילמות אנשים חוו בהקשר המשפחתי. במהלכו, השחקן נחשף לקשיים שהיו ביומיום כמו לדוג' להביא אוכל לבני הבית, או להסתתר מפני הנאצים. המשחק מיועד לאנשים שלא מחפשים רק אקשן ומראה את החלק הפחות אלים של תקופת השואה. לעומת המשחק השני שקצת יותר אלים. לכן אנשים רגישים יותר שעדין רוצים לחוות חווית משחק יוכלו לשחק במשחק שלנו כיוון שהוא פחות אלים. 
 
@@ -133,7 +133,7 @@
 קישור : https://store.steampowered.com/app/676630/Attentat_1942/
 
 
-![](pic2.png)
+![](https://github.com/Make-a-game-R-and-E/Journey-to-Freedom/blob/main/pictures/pic2.png?raw=true)
 
 במשחק שלנו במהלך המשימות ישנם אלמנטים של פחד כאשר מצד אחד הנאצים רוצים להרוג אותך וצריך לנסות להסתתר ומצד שני צריך להאכיל את בני הבית. דבר זה נותן לשחקן תחושת אחריות ואת ההבנה של גודל כל החלטה קטנה שיכולה להיות. לעומת זאת במשחק השני, אין כל כך את תחושת הפחד ואת המתח כיוון שהוא עוסק יותר בממד הסיפורי וההיסטורי.
 לכן שחקנים שמעדיפים לחוות משחק שיתן תחושה אמיתי יעדיפו לשחק את המשחק שלנו. בנוסף, שחקנים אשר יש להם קרבה לשורדי שואה יכולים לנסות להבין בעזרת המשחק קצת מה שהם חוו. 
@@ -144,7 +144,7 @@
 שם: Through the Darkest of Times
 
 קישור : https://store.steampowered.com/app/1003090/Through_the_Darkest_of_Times/
-   ![](pic3.png)
+   ![](https://github.com/Make-a-game-R-and-E/Journey-to-Freedom/blob/main/pictures/pic3.png?raw=true)
 
 
 במשחק שלנו, יש את האפשרות להתחבר בצורה אישית ומשפחתית יותר למשחק, מה שיגרום לדילמות והאתגרים להרגיש חזקים ומשמעותיים יותר. בנוסף, המשחק שלנו לא מדבר על מאבק פוליטי ונותן לחוות את התחושות של היהודים בשואה, בניגוד למשחק Through the Darkest of Times אשר מתאים יותר לאנשים שמחפשים את החלק הפוליטי של השואה.
