@@ -21,10 +21,8 @@ This is a demo version of the game 'journey to freedom', in this demo you will h
 
 [Game](https://elyasafko.itch.io/journey-to-freedom-demo)
 
+[דף רכיבים](https://github.com/Make-a-game-R-and-E/Journey-to-Freedom/blob/main/formal-elements.md)
 
-קישור לדף רכיבים :
-
-https://github.com/Make-a-game-R-and-E/Journey-to-Freedom/blob/main/formal-elements.md
 ---
 חברי הצוות:
 
