@@ -1,7 +1,3 @@
-![image](https://github.com/user-attachments/assets/e480e5b8-db7a-4d12-a3b0-a01497111ace)<div dir='rtl' lang='he'>
-
-
-
 # Journey-to-Freedom
 
 **התמודדות במלחמת הישרדות - סיפורי השואה מעוררי המחשבה**
