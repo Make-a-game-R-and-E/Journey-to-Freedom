@@ -1,4 +1,4 @@
-<div dir='rtl' lang='he'>
+![image](https://github.com/user-attachments/assets/e480e5b8-db7a-4d12-a3b0-a01497111ace)<div dir='rtl' lang='he'>
 
 
 
@@ -12,7 +12,7 @@
 
 המשחק שלנו מיועד למחשב.
 
-![](https://github.com/Make-a-game-R-and-E/Journey-to-Freedom/blob/main/pictures/start%20screen.png?raw=true)
+![](https://media.githubusercontent.com/media/Make-a-game-R-and-E/journey-to-freedom-demo/master/Assets/Pictures/start%20screen.png)
 
 
 ---
@@ -149,7 +149,7 @@
 קישור: https://store.steampowered.com/app/722570/NaziShoot/ 
 
 
-![](https://github.com/Make-a-game-R-and-E/Journey-to-Freedom/blob/main/pictures/pic7.png?raw=true)
+![](https://media.githubusercontent.com/media/Make-a-game-R-and-E/journey-to-freedom-demo/master/Assets/Pictures/pic7.png)
 
 במשחק שלנו יש אפשרות להתחבר לחלק המשפחתי שהיה בשואה, להבין איזה דילמות אנשים חוו בהקשר המשפחתי. במהלכו, השחקן נחשף לקשיים שהיו ביומיום כמו לדוג' להביא אוכל לבני הבית, או להסתתר מפני הנאצים. המשחק מיועד לאנשים שלא מחפשים רק אקשן ומראה את החלק הפחות אלים של תקופת השואה. לעומת המשחק השני שקצת יותר אלים. לכן אנשים רגישים יותר שעדין רוצים לחוות חווית משחק יוכלו לשחק במשחק שלנו כיוון שהוא פחות אלים. 
 
@@ -165,7 +165,7 @@
 קישור : https://store.steampowered.com/app/676630/Attentat_1942/
 
 
-![](https://github.com/Make-a-game-R-and-E/Journey-to-Freedom/blob/main/pictures/pic2.png?raw=true)
+![](https://media.githubusercontent.com/media/Make-a-game-R-and-E/journey-to-freedom-demo/master/Assets/Pictures/pic2.png)
 
 במשחק שלנו במהלך המשימות ישנם אלמנטים של פחד כאשר מצד אחד הנאצים רוצים להרוג אותך וצריך לנסות להסתתר ומצד שני צריך להאכיל את בני הבית. דבר זה נותן לשחקן תחושת אחריות ואת ההבנה של גודל כל החלטה קטנה שיכולה להיות. לעומת זאת במשחק השני, אין כל כך את תחושת הפחד ואת המתח כיוון שהוא עוסק יותר בממד הסיפורי וההיסטורי.
 לכן שחקנים שמעדיפים לחוות משחק שיתן תחושה אמיתי יעדיפו לשחק את המשחק שלנו. בנוסף, שחקנים אשר יש להם קרבה לשורדי שואה יכולים לנסות להבין בעזרת המשחק קצת מה שהם חוו. 
@@ -176,7 +176,7 @@
 שם: Through the Darkest of Times
 
 קישור : https://store.steampowered.com/app/1003090/Through_the_Darkest_of_Times/
-   ![](https://github.com/Make-a-game-R-and-E/Journey-to-Freedom/blob/main/pictures/pic3.png?raw=true)
+   ![](https://media.githubusercontent.com/media/Make-a-game-R-and-E/journey-to-freedom-demo/master/Assets/Pictures/pic3.png)
 
 
 במשחק שלנו, יש את האפשרות להתחבר בצורה אישית ומשפחתית יותר למשחק, מה שיגרום לדילמות והאתגרים להרגיש חזקים ומשמעותיים יותר. בנוסף, המשחק שלנו לא מדבר על מאבק פוליטי ונותן לחוות את התחושות של היהודים בשואה, בניגוד למשחק Through the Darkest of Times אשר מתאים יותר לאנשים שמחפשים את החלק הפוליטי של השואה.
